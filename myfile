@@ -1,5 +1,5 @@
 pipeline {
-    agent myownbabuserver
+    agent myownpoll
     
     tools {
         maven 'M2_HOME'
